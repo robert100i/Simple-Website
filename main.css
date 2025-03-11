@@ -206,14 +206,13 @@ body {
         padding: 60px 0px 0 0px;
     }
 
-    .box1 > h2 {
-        margin: 0 40px 0 0;
-    }
+
 
     .box1 > p {
         width: 360px;
         height: 44px;
         font-size: 20px;
+        margin: 0 auto;
     }
 
     .box2 {
@@ -248,6 +247,7 @@ body {
 
     .box3 {
     background-position: 100%;
+    padding: 1px 60px 60px 60px;
     }
     
     .textBox3 > h3 {
