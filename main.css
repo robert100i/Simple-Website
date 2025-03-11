@@ -54,7 +54,7 @@ body {
     height: 199px;
     margin: 0 auto;
     text-align: center;
-    padding: 60px 20px 10px;
+    padding: 60px 0px 10px;
 }
 
 .box1 > h2  {
@@ -93,11 +93,15 @@ body {
 
 .box3 {
     background-image: url(imgs/frame4.jpg);
+    background-size: cover;
+    background-position: 100%;
     padding: 60px;
+    gap: 6px;
+    height: 323px;
 }
 
 .textBox3 {
-    margin-top: 30px;
+    margin-top: 100px;
     width: 640px;
 }
 
