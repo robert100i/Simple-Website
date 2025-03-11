@@ -134,6 +134,7 @@ body {
     height: 165px;
     text-align: center;
     padding-top: 30px;
+    margin: 0 auto;
 }
 
 .bye > h2  {
