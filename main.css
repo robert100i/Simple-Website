@@ -100,9 +100,12 @@ body {
     height: 323px;
 }
 
+.box3p {
+    width: 640px;
+}
+
 .textBox3 {
     margin-top: 100px;
-    width: 640px;
 }
 
 .box3 > h3 {
